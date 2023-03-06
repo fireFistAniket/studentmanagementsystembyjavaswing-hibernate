@@ -1,0 +1,7 @@
+com\swing\studentmanagement\StudentSwing$1.class
+com\dao\student\StudentDao.class
+META-INF\MANIFEST.MF
+META-INF\maven\com.hibernateswing\StudentManagementSystem\pom.xml
+META-INF\maven\com.hibernateswing\StudentManagementSystem\pom.properties
+com\databasetable\student\Student.class
+com\swing\studentmanagement\StudentSwing.class
